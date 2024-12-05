@@ -1,9 +1,9 @@
 ﻿# Jogo de adivinhação
 
  
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+include <stdio.h>
+include <stdlib.h>
+include <time.h>
 
 void jogarAdivinhacao() {
     int numeroGerado, palpite, tentativas, maxTentativas = 5, continuar = 1;
